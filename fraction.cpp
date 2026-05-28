@@ -1,3 +1,11 @@
+// ----------------------------------------------------------
+// Práctica 1: Clase Fraction
+// Fecha: 1 de junio, 2026.
+// Autores:
+//          A01798798 Ricardo Peña Hernández
+//          A01803050 Rodrigo Herrera Ávila
+// ----------------------------------------------------------
+
 #include "fraction.h"
 #include <stdexcept> // Asegúrate de incluir esto para std::invalid_argument
 #include <numeric>

@@ -1,6 +1,10 @@
-//
-// Created by 22rph on 5/21/2026.
-//
+// ----------------------------------------------------------
+// Práctica 1: Clase Fraction
+// Fecha: 1 de junio, 2026.
+// Autores:
+//          A01798798 Ricardo Peña Hernández
+//          A01803050 Rodrigo Herrera Ávila
+// ----------------------------------------------------------
 
 #ifndef PRACTICA1_CLASEFRACTION_H
 #define PRACTICA1_CLASEFRACTION_H
